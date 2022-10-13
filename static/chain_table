@@ -1,0 +1,86 @@
+
+    digraph G {
+        nodesep=.05;
+        ranksep=.4;
+        rankdir=LR;
+        node [penwidth="0.5", shape=box, width=.1, height=.1];
+
+    node140266388126912 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+<tr><td port="0" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
+</tr>
+<tr><td port="1" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">1</font></td>
+</tr>
+<tr><td port="2" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">2</font></td>
+</tr>
+<tr><td port="3" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">3</font></td>
+</tr>
+<tr><td port="4" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">4</font></td>
+</tr>
+<tr><td port="5" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">5</font></td>
+</tr>
+<tr><td port="6" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">6</font></td>
+</tr>
+<tr><td port="7" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">7</font></td>
+</tr>
+<tr><td port="8" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">8</font></td>
+</tr>
+<tr><td port="9" BORDER="0" cellpadding="3" cellspacing="0" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">9</font></td>
+</tr>
+</table>
+>];
+node140266662875456 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140266663049792 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
+<tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">0 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="0" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (1, 'Dev', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">1 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="1" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (1, 'Ity', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">2 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="2" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (1, 'Deepak', 'Ptr')</font></td>
+</tr>
+</table>
+>];
+node140266663060160 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265848030656 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140266663053376 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265848138880 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140266662878400 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265848199488 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265848204928 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
+<tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">0 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="0" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Kyle', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">1 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="1" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Kelley', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">2 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="2" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Justin', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">3 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="3" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Amy', 'Ptr')</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">4 </font></td>
+<td cellspacing="0" cellpadding="0" border="0"></td><td port="4" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Shan', 'Ptr')</font></td>
+</tr>
+</table>
+>];
+node140266388140096 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+<tr>
+<td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">0</font></td>
+</tr>
+<tr>
+<td port="0" bgcolor="#fefecd" border="0" align="center"><font point-size="11">(9, 'Cody', 'Ptr')</font></td>
+</tr></table>
+>];
+node140266388126912:0 -> node140266662875456:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:1 -> node140266663049792:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:2 -> node140266663060160:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:3 -> node140265848030656:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:4 -> node140266663053376:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:5 -> node140265848138880:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:6 -> node140266662878400:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:7 -> node140265848199488:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:8 -> node140265848204928:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140266388126912:9 -> node140266388140096:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+}
