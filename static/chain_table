@@ -5,7 +5,7 @@
         rankdir=LR;
         node [penwidth="0.5", shape=box, width=.1, height=.1];
 
-    node140266388126912 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
+    node140265310891392 [color="#444443", margin="0.02", fontcolor="#444443", fontname="Helvetica", style=filled, fillcolor="#cfe2d4", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="0" CELLSPACING="0">
 <tr><td port="0" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">0</font></td>
 </tr>
 <tr><td port="1" BORDER="1" cellpadding="2" cellspacing="0" sides="b" bgcolor="#cfe2d4" align="left"><font color="#444443" point-size="9">1</font></td>
@@ -28,8 +28,8 @@
 </tr>
 </table>
 >];
-node140266662875456 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140266663049792 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
+node140266662892416 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265310804480 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
 <tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">0 </font></td>
 <td cellspacing="0" cellpadding="0" border="0"></td><td port="0" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (1, 'Dev', 'Ptr')</font></td>
 </tr>
@@ -41,13 +41,13 @@ node140266663049792 [shape="box", space="0.0", margin="0.01", fontcolor="#444443
 </tr>
 </table>
 >];
-node140266663060160 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140265848030656 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140266663053376 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140265848138880 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140266662878400 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140265848199488 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
-node140265848204928 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
+node140265310891712 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265310889920 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140266663096640 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265310891648 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265310826432 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265310632640 [shape="none", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<font face="Times-Italic" color="#444443" point-size="9">empty list</font>>];
+node140265848057152 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
 <tr><td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="r" align="right"><font face="Helvetica" color="#444443" point-size="11">0 </font></td>
 <td cellspacing="0" cellpadding="0" border="0"></td><td port="0" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="center"><font color="#444443" point-size="11"> (8, 'Kyle', 'Ptr')</font></td>
 </tr>
@@ -65,7 +65,7 @@ node140265848204928 [shape="box", space="0.0", margin="0.01", fontcolor="#444443
 </tr>
 </table>
 >];
-node140266388140096 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
+node140265310848448 [shape="box", space="0.0", margin="0.01", fontcolor="#444443", fontname="Helvetica", label=<<table BORDER="0" CELLBORDER="0" CELLSPACING="0">
 <tr>
 <td cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="1" sides="b" valign="top"><font color="#444443" point-size="9">0</font></td>
 </tr>
@@ -73,14 +73,14 @@ node140266388140096 [shape="box", space="0.0", margin="0.01", fontcolor="#444443
 <td port="0" bgcolor="#fefecd" border="0" align="center"><font point-size="11">(9, 'Cody', 'Ptr')</font></td>
 </tr></table>
 >];
-node140266388126912:0 -> node140266662875456:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:1 -> node140266663049792:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:2 -> node140266663060160:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:3 -> node140265848030656:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:4 -> node140266663053376:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:5 -> node140265848138880:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:6 -> node140266662878400:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:7 -> node140265848199488:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:8 -> node140265848204928:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
-node140266388126912:9 -> node140266388140096:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:0 -> node140266662892416:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:1 -> node140265310804480:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:2 -> node140265310891712:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:3 -> node140265310889920:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:4 -> node140266663096640:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:5 -> node140265310891648:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:6 -> node140265310826432:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:7 -> node140265310632640:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:8 -> node140265848057152:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
+node140265310891392:9 -> node140265310848448:w [arrowtail=dot, penwidth="0.5", color="#444443", arrowsize=.4, weight=100]
 }
