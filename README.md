@@ -15,6 +15,7 @@ This repo contains contributions by the following team members (mail ids are men
         1. Chaining
         2. Open Addressing
 5. Flask App
+6. Conclusion
 
 ## Abstract
 
