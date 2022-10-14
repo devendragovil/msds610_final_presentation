@@ -74,6 +74,23 @@ For the sake of convenience, a QR code was generated that was passed on to the a
 
 The landing page required students to input their favorite number and their first name.
 
-Based on this data, the flask app generated real time visualizations of hash table implementations of both linear probing and chaining.
+Based on this data, the flask app generated real time visualizations (the awesome library, lolviz, available [here](https://github.com/parrt/lolviz) was used for the visualizations) of hash table implementations of both linear probing and chaining.
 
 This was a pedagogical tool to illustrate the different collision resolution mechanisms and the considerations in using either of them. 
+
+## Conclusion
+
+We have jointly explored hash tables in some depth over the course of past couple of weeks.
+- Initial Explanation
+    - We started with an intuitive understanding of the hashtables and hashfunctions using examples
+    - We developed intuition and justification behind widespread usage of hashtables
+- Coding Demo
+    - We learned to implement hashtables using the list of lists implementation in python
+    - We also learned about hash functions and how to design them
+    - We studied the impact of bucket numbers on time complexity 
+- Final Presentation
+    - Herein, we reviewed our understanding of hash tables
+    - We discussed advanced considerations and things to be careful about while building/designing hash tables
+    - We discussed what a bad hash function can mean and how to correct it 
+    - We discussed collisions and the two approached to collision resolution
+    - Via an interactive flask app we understood linear probing and chaining in greater depth and developed an intuition for them
